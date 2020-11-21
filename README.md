@@ -6,9 +6,15 @@ run http-server in the terminal in the folder where you pulled this repo <br>
 run your code from localhost so that the camera works
 
 
-#updates 22.11.2020
+# updates 22.11.2020
+attnGAN connected to the labels and charRNN generated. !every character is logged to console.
+canvas size made bigger to house both screens in
+new io.socket added
 
-attnGAN connected to the labels and charRNN generated. every character is logged to console.
+# how to use runway
+open Runway ML and run the model attnGAN LOCALLY with the input being HTTP
+run the sketch.js file in atom server.
+it works!
 
 things left:
 -final export version (combining text & image)
