@@ -20,3 +20,4 @@ things left:
 -final export version (combining text & image)
 -ability to export
 -a bit css polishing
+
